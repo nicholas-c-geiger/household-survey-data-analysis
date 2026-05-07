@@ -17,3 +17,8 @@ The analysis focuses on household demographics, technology access, income levels
 - sqlite3
 - matplotlib
 - Google Colab
+
+## Generated Files
+- `Survey_Database.db`
+- SQLite database generated from the processed survey CSV data
+- Used for SQL-based querying and analysis
